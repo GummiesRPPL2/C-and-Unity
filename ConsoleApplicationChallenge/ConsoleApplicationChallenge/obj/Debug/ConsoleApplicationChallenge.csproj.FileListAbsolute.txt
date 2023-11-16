@@ -1,0 +1,7 @@
+C:\Users\josep\Documents\GitHub\C-Sharp-and-Unity\ConsoleApplicationChallenge\ConsoleApplicationChallenge\obj\Debug\ConsoleApplicationChallenge.csproj.AssemblyReference.cache
+C:\Users\josep\Documents\GitHub\C-Sharp-and-Unity\ConsoleApplicationChallenge\ConsoleApplicationChallenge\obj\Debug\ConsoleApplicationChallenge.csproj.CoreCompileInputs.cache
+C:\Users\josep\Documents\GitHub\C-Sharp-and-Unity\ConsoleApplicationChallenge\ConsoleApplicationChallenge\bin\Debug\ConsoleApplicationChallenge.exe.config
+C:\Users\josep\Documents\GitHub\C-Sharp-and-Unity\ConsoleApplicationChallenge\ConsoleApplicationChallenge\bin\Debug\ConsoleApplicationChallenge.exe
+C:\Users\josep\Documents\GitHub\C-Sharp-and-Unity\ConsoleApplicationChallenge\ConsoleApplicationChallenge\bin\Debug\ConsoleApplicationChallenge.pdb
+C:\Users\josep\Documents\GitHub\C-Sharp-and-Unity\ConsoleApplicationChallenge\ConsoleApplicationChallenge\obj\Debug\ConsoleApplicationChallenge.exe
+C:\Users\josep\Documents\GitHub\C-Sharp-and-Unity\ConsoleApplicationChallenge\ConsoleApplicationChallenge\obj\Debug\ConsoleApplicationChallenge.pdb

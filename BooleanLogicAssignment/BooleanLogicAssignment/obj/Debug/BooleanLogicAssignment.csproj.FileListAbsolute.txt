@@ -1,0 +1,7 @@
+C:\Users\josep\Documents\GitHub\C-Sharp-and-Unity\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.exe.config
+C:\Users\josep\Documents\GitHub\C-Sharp-and-Unity\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.exe
+C:\Users\josep\Documents\GitHub\C-Sharp-and-Unity\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.pdb
+C:\Users\josep\Documents\GitHub\C-Sharp-and-Unity\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.csproj.AssemblyReference.cache
+C:\Users\josep\Documents\GitHub\C-Sharp-and-Unity\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.csproj.CoreCompileInputs.cache
+C:\Users\josep\Documents\GitHub\C-Sharp-and-Unity\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.exe
+C:\Users\josep\Documents\GitHub\C-Sharp-and-Unity\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.pdb

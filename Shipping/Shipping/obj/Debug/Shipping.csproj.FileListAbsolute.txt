@@ -1,0 +1,7 @@
+C:\Users\josep\Documents\GitHub\C-Sharp-and-Unity\Shipping\Shipping\bin\Debug\Shipping.exe.config
+C:\Users\josep\Documents\GitHub\C-Sharp-and-Unity\Shipping\Shipping\bin\Debug\Shipping.exe
+C:\Users\josep\Documents\GitHub\C-Sharp-and-Unity\Shipping\Shipping\bin\Debug\Shipping.pdb
+C:\Users\josep\Documents\GitHub\C-Sharp-and-Unity\Shipping\Shipping\obj\Debug\Shipping.csproj.AssemblyReference.cache
+C:\Users\josep\Documents\GitHub\C-Sharp-and-Unity\Shipping\Shipping\obj\Debug\Shipping.csproj.CoreCompileInputs.cache
+C:\Users\josep\Documents\GitHub\C-Sharp-and-Unity\Shipping\Shipping\obj\Debug\Shipping.exe
+C:\Users\josep\Documents\GitHub\C-Sharp-and-Unity\Shipping\Shipping\obj\Debug\Shipping.pdb

@@ -1,0 +1,7 @@
+C:\Users\josep\Documents\GitHub\C-Sharp-and-Unity\StringFunction\StringFunction\bin\Debug\StringFunction.exe.config
+C:\Users\josep\Documents\GitHub\C-Sharp-and-Unity\StringFunction\StringFunction\bin\Debug\StringFunction.exe
+C:\Users\josep\Documents\GitHub\C-Sharp-and-Unity\StringFunction\StringFunction\bin\Debug\StringFunction.pdb
+C:\Users\josep\Documents\GitHub\C-Sharp-and-Unity\StringFunction\StringFunction\obj\Debug\StringFunction.csproj.AssemblyReference.cache
+C:\Users\josep\Documents\GitHub\C-Sharp-and-Unity\StringFunction\StringFunction\obj\Debug\StringFunction.csproj.CoreCompileInputs.cache
+C:\Users\josep\Documents\GitHub\C-Sharp-and-Unity\StringFunction\StringFunction\obj\Debug\StringFunction.exe
+C:\Users\josep\Documents\GitHub\C-Sharp-and-Unity\StringFunction\StringFunction\obj\Debug\StringFunction.pdb
